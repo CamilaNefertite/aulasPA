@@ -1,4 +1,3 @@
-package lacoRepeticaoLista2;
 public class altura {
     public static void main(String[] args) {
         double i = 0;
