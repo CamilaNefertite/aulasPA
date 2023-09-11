@@ -1,4 +1,3 @@
-package lacoRepeticaoLista2;
 import java.util.Scanner;
 	public class fatorial {
     public static void main(String[] args) {
