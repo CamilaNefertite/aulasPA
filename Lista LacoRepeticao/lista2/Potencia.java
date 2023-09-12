@@ -13,11 +13,10 @@ public class Potencia {
    	     expoente = in.nextDouble();
         
     	    while (i<=expoente){
-        			resultado*=base;
+        	resultado*=base;
     	        i++;
-				    }
-        
+		}
+
         System.out.println("O resultado é: "+resultado+"");
     }
-    
 }
