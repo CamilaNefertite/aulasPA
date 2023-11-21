@@ -1,4 +1,3 @@
-package matriz;
 import java.util.Scanner;
 public class LinhasSoma{
     public static void main(String[] args) {
